@@ -28,6 +28,7 @@ var timerId = setTimeout(func / code, delay[, arg1, arg2...])
 
 Например, следующий код вызовет `func()` через одну секунду:
 
+
 ```js run
 function func() {
   alert( 'Привет' );
